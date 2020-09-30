@@ -19,3 +19,6 @@ We used a variety of techniques on the same dataset and have been able to unders
 they are applied on the same natured data set. This enabled us to explore our limits on different models and how they will behave on a 
 certain data. We were able to get different models and satisfactory results through multiple iterations. We also faced issues, in terms of 
 the data set size, as in KNN and SVM did not gave prominent results and had to struggle due to the larger data set.  
+
+
+THANK YOU FOR READING
