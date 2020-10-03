@@ -1,7 +1,7 @@
 The present work utilizes state-of-the-art text mining and machine learning algorithms to predict the category of cuisine 
-(e.g. Mexican, Italian, Indian etc.) for a given recipe, whose ingredients are input to the model. The model is trained on 
+(e.g. Mexican, Italian, Indian,france etc.) for a given recipe, whose ingredients are input to the model. The model is trained on 
 a large dataset that contains the list of ingredients for several recipes belonging to different cuisine categories, and 
-performs the cuisine category classification based on this learning.
+performs the cuisine category classification based on this learning.indian recipes is also very special and full of herbs and qualities.
 
 Objectives & Need
 
@@ -19,3 +19,4 @@ We used a variety of techniques on the same dataset and have been able to unders
 they are applied on the same natured data set. This enabled us to explore our limits on different models and how they will behave on a 
 certain data. We were able to get different models and satisfactory results through multiple iterations. We also faced issues, in terms of 
 the data set size, as in KNN and SVM did not gave prominent results and had to struggle due to the larger data set.  
+#amzingproject #indian #food
